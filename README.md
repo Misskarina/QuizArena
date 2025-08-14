@@ -1,4 +1,4 @@
-# 🎯 QuizArena – Online Multiplayer Quiz Game
+## 🎯 QuizArena – Online Multiplayer Quiz Game
 
 QuizArena is a web-based online quiz platform built using Java (Spring Boot) for the backend and HTML, CSS, JavaScript for the frontend.  
 It supports real-time multiplayer gameplay with live leaderboards using WebSockets.
